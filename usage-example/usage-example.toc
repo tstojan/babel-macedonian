@@ -1,0 +1,21 @@
+\select@language {macedonian}
+\select@language {macedonian}
+\select@language {macedonian}
+\select@language {macedonian}
+\contentsline {chapter}{\numberline {1}\IeC {\CYRV }\IeC {\cyro }\IeC {\cyrv }\IeC {\cyre }\IeC {\cyrd }}{2}
+\contentsline {section}{\numberline {1.1}\IeC {\CYRA }\IeC {\cyrz }\IeC {\cyrb }\IeC {\cyru }\IeC {\cyrk }\IeC {\cyra }}{2}
+\contentsline {section}{\numberline {1.2}\IeC {\CYRM }\IeC {\cyre }\IeC {\cyrt }\IeC {\cyro }\IeC {\cyrd }}{2}
+\contentsline {section}{\numberline {1.3}\IeC {\CYRT }\IeC {\cyre }\IeC {\cyrk }\IeC {\cyrs }\IeC {\cyrt } \IeC {\cyrz }\IeC {\cyra } \IeC {\cyrs }\IeC {\cyrl }\IeC {\cyre }\IeC {\cyrd }\IeC {\cyrn }\IeC {\cyra }\IeC {\cyrt }\IeC {\cyra } \IeC {\cyrs }\IeC {\cyrl }\IeC {\cyri }\IeC {\cyrk }\IeC {\cyra }}{4}
+\contentsline {chapter}{\numberline {2}\IeC {\CYRM }\IeC {\cyra }\IeC {\cyrt }\IeC {\cyre }\IeC {\cyrm }\IeC {\cyra }\IeC {\cyrt }\IeC {\cyri }\IeC {\cyrk }\IeC {\cyra }}{5}
+\contentsline {chapter}{\numberline {3}\IeC {\CYRM }\IeC {\cyra }\IeC {\cyrl }\IeC {\cyrk }\IeC {\cyru } \IeC {\cyrp }\IeC {\cyro }\IeC {\cyrd }\IeC {\cyro }\IeC {\cyrl }\IeC {\cyrg } \IeC {\cyrt }\IeC {\cyre }\IeC {\cyrk }\IeC {\cyrs }\IeC {\cyrt }}{6}
+\contentsline {section}{\numberline {3.1}\IeC {\CYRM }\IeC {\cyra }\IeC {\cyrk }\IeC {\cyre }\IeC {\cyrd }\IeC {\cyro }\IeC {\cyrn }\IeC {\cyri }\IeC {\cyrje }\IeC {\cyra }}{6}
+\contentsline {subsection}{\numberline {3.1.1}\IeC {\CYRO }\IeC {\cyrp }\IeC {\cyrsh }\IeC {\cyrt }\IeC {\cyro }}{6}
+\contentsline {section}{\numberline {3.2}\emph {\IeC {\CYRP }\IeC {\cyrr }\IeC {\cyri }\IeC {\cyrm }\IeC {\cyre }\IeC {\cyrr } \IeC {\cyrz }\IeC {\cyra } \IeC {\cyri }\IeC {\cyrt }\IeC {\cyra }\IeC {\cyrl }\IeC {\cyri }\IeC {\cyrk }}}{6}
+\contentsline {chapter}{\numberline {4}Usage of other languages}{8}
+\select@language {greek}
+\select@language {english}
+\select@language {greek}
+\select@language {english}
+\select@language {french}
+\select@language {macedonian}
+\contentsline {section}{\numberline {4.1}\IeC {\CYRT }\IeC {\cyre }\IeC {\cyrs }\IeC {\cyrt } \IeC {\cyrz }\IeC {\cyra } \IeC {\cyro }\IeC {\cyrs }\IeC {\cyrt }\IeC {\cyra }\IeC {\cyrn }\IeC {\cyra }\IeC {\cyrt }\IeC {\cyri } \IeC {\cyrk }\IeC {\cyri }\IeC {\cyrr }\IeC {\cyri }\IeC {\cyrl }\IeC {\cyri }\IeC {\cyrch }\IeC {\cyrn }\IeC {\cyri } \IeC {\cyrk }\IeC {\cyra }\IeC {\cyrr }\IeC {\cyra }\IeC {\cyrk }\IeC {\cyrt }\IeC {\cyre }\IeC {\cyrr }\IeC {\cyri }}{8}

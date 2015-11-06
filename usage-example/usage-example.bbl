@@ -1,0 +1,22 @@
+\begin{thebibliography}{1}
+
+\bibitem{small}
+I.P. Freely.
+\newblock A small paper.
+\newblock {\em The journal of small papers}, -1, 1997.
+\newblock to appear.
+
+\bibitem{big}
+Hugh Jass.
+\newblock A big paper.
+\newblock {\em The journal of big papers}, MCMXCVII, 7991.
+
+\bibitem{website:WikipediaMacedonia}
+Википедија~на македонски.
+\newblock Македонија.
+
+\bibitem{website:ExampleWeb}
+Државен завод~за статистика.
+\newblock Македонија низ бројки, Ноември 2011.
+
+\end{thebibliography}
