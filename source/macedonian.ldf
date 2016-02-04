@@ -210,18 +210,18 @@
 %%
 \def\datemacedonian{%
   \def\month@macedonian{\ifcase\month\or
-    \CYRJE\cyra\cyrn\cyru\cyra\cyrr\cyri\or
-    \CYRF\cyre\cyrb\cyrr\cyru\cyra\cyrr\cyri\or
-    \CYRM\cyra\cyrr\cyrt\or
-    \CYRA\cyrp\cyrr\cyri\cyrl\or
-    \CYRM\cyra\cyrje\or
-    \CYRJE\cyru\cyrn\cyri\or
-     \CYRJE\cyru\cyrl\cyri\or
-    \CYRA\cyrv\cyrg\cyru\cyrs\cyrt\or
-    \CYRS\cyre\cyrp\cyrt\cyre\cyrm\cyrv\cyrr\cyri\or
-    \CYRO\cyrk\cyrt\cyro\cyrm\cyrv\cyrr\cyri\or
-    \CYRN\cyro\cyre\cyrm\cyrv\cyrr\cyri\or
-    \CYRD\cyre\cyrk\cyre\cyrm\cyrv\cyrr\cyri\fi}%
+    \cyrje\cyra\cyrn\cyru\cyra\cyrr\cyri\or
+    \cyrf\cyre\cyrv\cyrr\cyru\cyra\cyrr\cyri\or
+    \cyrm\cyra\cyrr\cyrt\or
+    \cyra\cyrp\cyrr\cyri\cyrl\or
+    \cyrm\cyra\cyrje\or
+    \cyrje\cyru\cyrn\cyri\or
+    \cyrje\cyru\cyrl\cyri\or
+    \cyra\cyrv\cyrg\cyru\cyrs\cyrt\or
+    \cyrs\cyre\cyrp\cyrt\cyre\cyrm\cyrv\cyrr\cyri\or
+    \cyro\cyrk\cyrt\cyro\cyrm\cyrv\cyrr\cyri\or
+    \cyrn\cyro\cyre\cyrm\cyrv\cyrr\cyri\or
+    \cyrd\cyre\cyrk\cyre\cyrm\cyrv\cyrr\cyri\fi}%
   \def\month@Roman{\expandafter\@Roman\month}%
   \def\today{\number\day~\month@macedonian\ \number\year~\cyrg\cyro\cyrd.}%
   \def\todayRoman{\number\day.\,\month@Roman.\,\number\year~\cyrg\cyro\cyrd.}%
