@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  4 FEB 2016 20:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  5 FEB 2016 10:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -93,7 +93,7 @@ Language: english 2012/08/20 v3.3p English support from the babel system
 \l@newzealand = a dialect from \language\l@british 
 )
 (./macedonian.ldf
-Language: macedonian 2015/11/04 v1.0 Macedonian support from the babel system
+Language: macedonian 2016/02/05 v1.1 Macedonian support from the babel system
 
 
 Package babel Warning: No hyphenation patterns were preloaded for
@@ -1112,7 +1112,7 @@ al/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local
 /texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/local/t
 exlive/2015/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb></usr/local/tex
 live/2015/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on usage-example.pdf (16 pages, 1589556 bytes).
+Output written on usage-example.pdf (16 pages, 1590035 bytes).
 PDF statistics:
  145 PDF objects out of 1000 (max. 8388607)
  101 compressed objects within 2 object streams
